@@ -4648,7 +4648,7 @@ Camera:
   far clip plane: 1000
   field of view: 34
   orthographic: 1
-  orthographic size: 2.2401009
+  orthographic size: 8.203704
   m_Depth: -1
   m_CullingMask:
     serializedVersion: 2
@@ -4940,7 +4940,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 15
+  m_Mass: 30
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 0
@@ -5085,7 +5085,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Player
   inputVec: {x: 0, y: 0}
-  speed: 7
+  speed: 3
   scanner: {fileID: 0}
 --- !u!114 &696386317
 MonoBehaviour:
@@ -5251,7 +5251,7 @@ MonoBehaviour:
   id: 0
   prefabId: 1
   damage: 5
-  count: 2
+  count: 3
   speed: 0
 --- !u!1 &1105704154
 GameObject:
